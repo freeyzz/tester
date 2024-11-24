@@ -1,1 +1,1 @@
-
+﻿# ssk-checker
